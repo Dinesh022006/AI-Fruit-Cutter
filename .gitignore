@@ -3,15 +3,13 @@
 
 # Python cache
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
 
-# Environment variables
-.env
+# Game save
+highscore.json
 
 # VS Code
 .vscode/
 
-# OS files
-.DS_Store
-Thumbs.db
+# Environment
+.env
